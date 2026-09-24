@@ -17,6 +17,6 @@
 	⌁
 	<a
 		class="delay-00 rounded-sm border border-neutral-300 px-3 py-1 text-[12px] text-neutral-500 transition-all hover:bg-neutral-200"
-		href="/">Home</a
+		href="https://apranthilaka.com/">Home</a
 	>
 </div>
