@@ -4,7 +4,7 @@
 	<div class="w-10">
 		<img src="logo.png" alt="" />
 	</div>
-	<div class="mb-2 text-lg font-medium">Launching Soon.</div>
+	<div class="mb-2 text-lg font-medium">Clint Projects Launching Soon.</div>
 	<!-- <div class="max-w-110">
 		Interactive web implementations of my designs, developed through hybrid, manual coding and AI
 		collaboration.
