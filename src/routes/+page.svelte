@@ -5,10 +5,10 @@
 		<img src="logo.png" alt="" />
 	</div>
 	<div class="mb-2 text-lg font-medium">Launching Soon.</div>
-	<div class="max-w-110">
+	<!-- <div class="max-w-110">
 		Interactive web implementations of my designs, developed through hybrid, manual coding and AI
 		collaboration.
-	</div>
+	</div> -->
 	⌁
 	<div class="">Sveltekit • Shadcn • Tailwind4</div>
 	<div class="">Claude • Ollama/Qwen code</div>
